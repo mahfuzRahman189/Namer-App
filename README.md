@@ -14,11 +14,9 @@ A simple Flutter application that generates random English word pairs and allows
 
 | Home | Favorites |
 |------|-----------|
-| ![Home](![image](https://github.com/user-attachments/assets/88a7b048-52a1-471d-8d9e-89bb5694222f)
-) | ![Favorites](![image](https://github.com/user-attachments/assets/53750824-c91a-4367-b561-ce050302fe7c)
-) |
+| ![Home](![image](https://github.com/user-attachments/assets/88a7b048-52a1-471d-8d9e-89bb5694222f)| ![Favorites](![image](https://github.com/user-attachments/assets/53750824-c91a-4367-b561-ce050302fe7c) |
 
-> *(Add real screenshots here after running your app!)*
+> Youtube Link for explanation: https://youtu.be/By6uiJuy1_U
 
 ## 🛠️ Getting Started
 
